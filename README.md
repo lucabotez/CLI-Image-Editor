@@ -1,4 +1,4 @@
-Copyright Botez Luca 2022-2023
+Copyright @lucabotez
 
 ## Image Editor
 
