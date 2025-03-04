@@ -1,4 +1,4 @@
-// Copyright Botez Luca 314CA 2022-2023
+// Copyright @lucabotez
 
 #ifndef IMAGE_EDITOR_H
 #define IMAGE_EDITOR_H
